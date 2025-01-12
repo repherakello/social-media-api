@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'rest_framework_simplejwt',
-    'core_social',
+    'social_work',
     'drf_spectacular',
     'debug_toolbar',
     'rest_framework_simplejwt.token_blacklist',
